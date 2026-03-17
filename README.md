@@ -21,13 +21,13 @@ Me gusta convertir ideas en proyectos funcionales, aprender nuevas tecnologías 
 ## 🛠 Stack tecnológico
 
 **Frontend**  
-Angular · TypeScript · HTML · CSS · Bootstrap
+Angular · TypeScript · HTML · CSS · Bootstrap · C#
 
 **Backend**  
 Node.js · Express · REST APIs
 
 **Base de datos**  
-MongoDB
+MongoDB · SQL
 
 **Herramientas**  
 Git · GitHub · Postman · VS Code
