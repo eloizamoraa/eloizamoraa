@@ -69,6 +69,7 @@ Seguir creciendo como desarrollador, ganar experiencia en proyectos reales y for
 ## 📫 Contacto
 
 - **Email:** [eloi.zamora@estudiantat.upc.edu]
+- **Linkedin:**linkedin.com/in/eloi-zamora-gómez-b510ab284
 
 ---
 
