@@ -10,7 +10,7 @@ Me gusta convertir ideas en proyectos funcionales, aprender nuevas tecnologías 
 
 ## 👋 Sobre mí
 
-- 🎓 Formación en ingenieria telemática en la EETAC (UPC)
+- 🎓 Formación en ingenieria telecomunicacione y telemática en la EETAC (UPC)
 - 💡 Interés en desarrollo **frontend** y **backend**
 - 🔍 Enfocado en seguir mejorando en arquitectura, lógica y buenas prácticas
 - 🌱 Aprendiendo y trabajando con **Angular, TypeScript, Express y MongoDB**
